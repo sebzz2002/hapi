@@ -1,0 +1,31 @@
+{
+  "name": "trakr_client_hapi",
+  "version": "1.0.0",
+  "description": "Node js application for client side deployment of application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Papnai",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "aws-sdk": "^2.1301.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "resize-base64": "^1.0.12",
+    "sequelize": "^6.28.0",
+    "sequelize-cli": "^6.6.0",
+    "swagger-autogen": "^2.22.0",
+    "swagger-ui-express": "^4.6.0",
+    "url": "^0.11.0",
+    "uuid": "^9.0.0",
+    "sharp": "^0.32.0"
+  }
+}
